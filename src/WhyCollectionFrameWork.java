@@ -32,6 +32,7 @@ The Collection framework represents a unified architecture for storing and manip
 Interfaces and its implementations, i.e., classes
 Algorithm
 
+The java.util package contains all the classes and interfaces for the Collection framework.
  */
 
 public class WhyCollectionFrameWork {
