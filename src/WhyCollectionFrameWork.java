@@ -51,6 +51,13 @@ builds the foundation on which the collection framework depends.
 Some of the methods of Collection interface are Boolean add ( Object obj), Boolean addAll ( Collection c), void clear(),
 etc. which are implemented by all the subclasses of Collection interface.
 
+There was array already then Why Collection Required :
+1. Array can store both primitive and non-primitive(object) data but collection stored only non-primitive data(Objects)
+2. Array can store only homogenous data but collection can store heterogeneous type data.
+3. Array Size fixed we can't change size at run time and we can increase and decrease size of collection at runtime
+4. collection provide pre-define API which provide class, interface and method for sorting searching, insertion and deletion etc/
+
+
  */
 
 public class WhyCollectionFrameWork {
