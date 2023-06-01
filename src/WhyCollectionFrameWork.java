@@ -33,6 +33,24 @@ Interfaces and its implementations, i.e., classes
 Algorithm
 
 The java.util package contains all the classes and interfaces for the Collection framework.
+
+TheIterable interface :
+It is the root interface for all the collection classes. The Collection interface extends the Iterable interface and
+therefore all the subclasses of Collection interface also implement the Iterable interface.
+
+It contains only one abstract method. i.e.,
+
+Iterator<T> iterator()
+It returns the iterator over the elements of type T.
+
+Collection Interface
+The Collection interface is the interface which is implemented by all the classes in the collection framework.
+It declares the methods that every collection will have. In other words, we can say that the Collection interface
+builds the foundation on which the collection framework depends.
+
+Some of the methods of Collection interface are Boolean add ( Object obj), Boolean addAll ( Collection c), void clear(),
+etc. which are implemented by all the subclasses of Collection interface.
+
  */
 
 public class WhyCollectionFrameWork {
