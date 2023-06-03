@@ -18,6 +18,8 @@ Both are interface  and extend collection Interface
 6. Implemented Class of List : ArrayList ,LinkedList, Vector , Stack
    Implemented Class of Set : Hashset, LinkedHashSet, Treeset
 
+Resource :
+https://www.javatpoint.com/list-vs-set-in-java#:~:text=Both%20interfaces%20extend%20the%20Collection,the%20same%20elements%20in%20it.
  */
 import java.util.ArrayList;
 import java.util.Collection;
