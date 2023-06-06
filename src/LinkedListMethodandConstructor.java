@@ -42,7 +42,7 @@ public class LinkedListMethodandConstructor {
         ll.add(4,5);
         ll.get(4);
         ll.addAll(lt);
-        ll.remove(5)/* remove element from particular index */
+        ll.remove(5);/* remove element from particular index */
 
         ll.set(3,5); /* set element 5 at index 3 */
 
