@@ -48,8 +48,6 @@ public class LegacyClassandVector {
         /* Method of vector class  */
 
         /* Its contains method of List and Collection Interface. */
-
-        */
         v.capacity();
         v.elementAt(3);
         v.insertElementAt(3,3);
